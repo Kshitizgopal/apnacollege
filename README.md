@@ -1,4 +1,4 @@
 # apnacollege
 this my first repository.
 <br>
-author kshitizgoel
+author gopal goel
